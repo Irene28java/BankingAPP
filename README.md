@@ -1,21 +1,27 @@
-## BankingAPP  ##
+ Uso De Aplicacion 
 
-BankingApp es una aplicación de consola desarrollada en Python que simula un sistema bancario basico.
-El proyecto demuestra habilidades en programación orientada a objetos, gestión de flujos de interacción y operaciones bancarios, aspectos muy valorados en el sector financiero.
+Al ejecutar la aplicación, verás un menú principal con opciones como:
+	
+  •	    Crear Cuenta
+	•	Iniciar Sesión
+	•	Salir
 
-## DEFINICION ##
+Tras iniciar sesión, se mostrará otro menú para:
+	
+•	Realizar depósitos
+	•	Realizar retiros
+	•	Consultar el saldo
+	•	Ver el historial de transacciones
+	•	Cerrar sesión
 
-ESTA APLICACION LO QUE PERMITE A LOS USUARIOS ES :
+Lecciones Aprendidas
 
-1. Crear una cuenta bancaria única, ingresando número de cuenta, nombre del titular y sobre todo una contraseña
-2. Iniciar Sesión de forma segura utilizando el módulo "getpass" para ocultar la entrada de la contraseña.
-3. Realizar operaciones de depósito y retiro, con validaciones para asegurar que las transacciones sean correctas.
-4. Consultar el actual saldo en cuenta
-5. Visualizar un historial detallado de Transacciones.
+Este proyecto me permitió:
 
-## Requisitos ##
+	•	Implementar y estructurar código orientado a objetos.
+	•	Gestionar de forma segura la interacción con el usuario mediante técnicas básicas de seguridad.
+	•	Desarrollar una aplicación funcional que simula operaciones bancarias, demostrando la capacidad para diseñar y desarrollar soluciones de backend.
 
-- Python 3.x instaladp en el sistema
-- (Recomendación) Visual Code para una experiencia de desarrollo más optimizada.
-   
- 
+Contribuciones
+
+¡Las contribuciones son bienvenidas! Si tienes ideas para mejorar o agregar nuevas funcionalidades, por favor abre un issue o envía un pull request.
